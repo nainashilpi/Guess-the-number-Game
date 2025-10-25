@@ -16,7 +16,7 @@ A modern and visually appealing **number guessing game** built using **HTML, CSS
 ## 🚀 Live Demo
 
 [Number Guessing Game](https://guess-the-number-game-virid.vercel.app)  
-*(Replace with your actual deployed link if different)*
+
 
 ---
 
